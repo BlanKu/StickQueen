@@ -15,6 +15,8 @@ public class PlayerScript : MonoBehaviour
     Collider2D _collider2DPlayer;
     Collider2D _collider2DLeftFoot;
     Collider2D _collider2DRightFoot;
+
+    SpriteRenderer _srPlayer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,6 +26,8 @@ public class PlayerScript : MonoBehaviour
         _collider2DPlayer = GetComponent<Collider2D>();
         _collider2DLeftFoot = LeftFoot.GetComponent<Collider2D>();
         _collider2DRightFoot = RightFoot.GetComponent<Collider2D>();
+
+        _srPlayer = GetComponent<SpriteRenderer>();
 
         Physics2D.IgnoreCollision(_collider2DPlayer, _collider2DLeftFoot);
         Physics2D.IgnoreCollision(_collider2DPlayer, _collider2DRightFoot);
@@ -35,6 +39,7 @@ public class PlayerScript : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             _rbLeftFoot.angularVelocity = -playerSpeed;
+            _srPlayer.flipX = true;
             Debug.Log("Pressed A");
 
         }
@@ -42,17 +47,20 @@ public class PlayerScript : MonoBehaviour
         {
             _rbLeftFoot.angularVelocity = playerSpeed;
             Debug.Log("Pressed D");
+            _srPlayer.flipX = true;
         }
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             _rbRightFoot.angularVelocity = -playerSpeed;
             Debug.Log("Pressed <-");
+            _srPlayer.flipX = false;
         }
         if (Input.GetKey(KeyCode.RightArrow))
         {
             _rbRightFoot.angularVelocity = playerSpeed;
             Debug.Log("Pressed ->");
+            _srPlayer.flipX = false;
         }
     }
 }
