@@ -17,6 +17,8 @@ public class PlayerScript : MonoBehaviour
     Collider2D _collider2DRightFoot;
 
     SpriteRenderer _srPlayer;
+
+    public bool showDebugMessages = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -40,27 +42,40 @@ public class PlayerScript : MonoBehaviour
         {
             _rbLeftFoot.angularVelocity = -playerSpeed;
             _srPlayer.flipX = true;
-            Debug.Log("Pressed A");
+            if(showDebugMessages)
+            {
+                Debug.Log("Pressed A");
+            }
+            
 
         }
         if (Input.GetKey(KeyCode.D))
         {
             _rbLeftFoot.angularVelocity = playerSpeed;
-            Debug.Log("Pressed D");
             _srPlayer.flipX = true;
+            if (showDebugMessages)
+            {
+                Debug.Log("Pressed D");
+            }
         }
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             _rbRightFoot.angularVelocity = -playerSpeed;
-            Debug.Log("Pressed <-");
             _srPlayer.flipX = false;
+            if (showDebugMessages)
+            {
+                Debug.Log("Pressed <-");
+            }
         }
         if (Input.GetKey(KeyCode.RightArrow))
         {
             _rbRightFoot.angularVelocity = playerSpeed;
-            Debug.Log("Pressed ->");
             _srPlayer.flipX = false;
+            if (showDebugMessages)
+            {
+                Debug.Log("Pressed ->");
+            }
         }
     }
 }
