@@ -25,6 +25,7 @@ public class WelcomeNPCScript : MonoBehaviour
             if (showDebugMessages)
             {
                 Debug.Log("Collision Enter");
+               
             }
         }
     }
@@ -39,5 +40,15 @@ public class WelcomeNPCScript : MonoBehaviour
                 Debug.Log("Collision Exit");
             }
         }
+    }
+
+    public void StartAnimation()
+    {
+
+    }
+
+    public void EndAnimation()
+    {
+
     }
 }
