@@ -43,7 +43,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -73,7 +73,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -103,7 +103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -133,7 +133,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -163,7 +163,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -193,7 +193,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -223,7 +223,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -253,7 +253,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -283,7 +283,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -313,7 +313,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -343,7 +343,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -373,7 +373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -403,7 +403,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -433,7 +433,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -463,7 +463,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -493,7 +493,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -523,7 +523,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -553,7 +553,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -583,7 +583,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -613,7 +613,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -643,7 +643,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.r
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -673,7 +673,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.g
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -703,7 +703,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.b
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -733,7 +733,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.a
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -746,7 +746,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 4102832019
+      path: 212018538
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -755,7 +755,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3119436588
+      path: 4099556337
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -764,7 +764,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3196262197
+      path: 4080502760
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -773,7 +773,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 775686820
+      path: 1669896825
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -782,7 +782,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1497053746
+      path: 344959727
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -791,7 +791,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 544746705
+      path: 3456976532
       attribute: 4185109675
       script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
       typeID: 114
@@ -800,7 +800,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 4102832019
+      path: 212018538
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -809,7 +809,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 4102832019
+      path: 212018538
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -818,7 +818,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 4102832019
+      path: 212018538
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -827,7 +827,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3119436588
+      path: 4099556337
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -836,7 +836,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3119436588
+      path: 4099556337
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -845,7 +845,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3119436588
+      path: 4099556337
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -854,7 +854,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3196262197
+      path: 4080502760
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -863,7 +863,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3196262197
+      path: 4080502760
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -872,7 +872,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3196262197
+      path: 4080502760
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -881,7 +881,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 775686820
+      path: 1669896825
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -890,7 +890,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 775686820
+      path: 1669896825
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -899,7 +899,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 775686820
+      path: 1669896825
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -908,7 +908,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1497053746
+      path: 344959727
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -917,7 +917,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1497053746
+      path: 344959727
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -926,7 +926,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1497053746
+      path: 344959727
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -935,7 +935,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 544746705
+      path: 3456976532
       attribute: 2110649717
       script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
       typeID: 114
@@ -944,7 +944,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 544746705
+      path: 3456976532
       attribute: 269488542
       script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
       typeID: 114
@@ -953,7 +953,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 544746705
+      path: 3456976532
       attribute: 1618666769
       script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
       typeID: 114
@@ -1009,7 +1009,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1039,7 +1039,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1069,7 +1069,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1099,7 +1099,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_10
+    path: TextArea/TextAreaTextures_10
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1129,7 +1129,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1159,7 +1159,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1189,7 +1189,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1219,7 +1219,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_3
+    path: TextArea/TextAreaTextures_3
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1249,7 +1249,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1279,7 +1279,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1309,7 +1309,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1339,7 +1339,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_7
+    path: TextArea/TextAreaTextures_7
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1369,7 +1369,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1399,7 +1399,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1429,7 +1429,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1459,7 +1459,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_8
+    path: TextArea/TextAreaTextures_8
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1489,7 +1489,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1519,7 +1519,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1549,7 +1549,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1579,7 +1579,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: TextAreaTextures_9
+    path: TextArea/TextAreaTextures_9
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -1609,7 +1609,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.r
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -1639,7 +1639,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.g
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -1669,7 +1669,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.b
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -1699,7 +1699,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_fontColor.a
-    path: NPCText
+    path: TextArea/NPCText
     classID: 114
     script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
     flags: 0
@@ -1708,7 +1708,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 1
-    functionName: TextAreaAnimationEnd
+    functionName: HideTextAfterEndAnimationEnds
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

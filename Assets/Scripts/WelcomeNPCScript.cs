@@ -3,13 +3,14 @@ using UnityEngine;
 public class WelcomeNPCScript : MonoBehaviour
 {
     public GameObject NPCText;
+    public Animator NPCTextAnimation;
 
     public bool showDebugMessages;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        NPCText.active = false;
     }
 
     // Update is called once per frame
@@ -22,6 +23,7 @@ public class WelcomeNPCScript : MonoBehaviour
         if(collision.tag == "Player")
         {
             NPCText.active = true;
+            NPCTextAnimation.Play("TextAreaOpenAnimation");
             if (showDebugMessages)
             {
                 Debug.Log("Collision Enter");
@@ -33,11 +35,16 @@ public class WelcomeNPCScript : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            NPCText.active = false;
+            NPCTextAnimation.Play("TextAreaExitAnimation");
             if (showDebugMessages)
             {
                 Debug.Log("Collision Exit");
             }
         }
+    }
+
+    private void HideTextAfterEndAnimationEnds()
+    {
+        NPCText.active = false;
     }
 }
