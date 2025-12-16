@@ -23,7 +23,7 @@ public class ButtonScript : MonoBehaviour
     {
         _button = GetComponent<Button>();
 
-        if (sceneNameToGo != null)
+        if (sceneNameToGo != "")
         {
             _button.onClick.AddListener(ChangeScene);
         }
