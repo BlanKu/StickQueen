@@ -13,6 +13,10 @@ public class ButtonScript : MonoBehaviour
     [Header("Show/Hide Objects Button")]
     public List<GameObject> ShowHideObjects;
 
+    [Header("CheckBOX Button")]
+    public PlayerDataScript _playerDataScript;
+    public bool checkBoxButton;
+
     [Header("Quit Game Button")]
     public bool isQuitButton;
 
@@ -30,6 +34,10 @@ public class ButtonScript : MonoBehaviour
         else if (isQuitButton)
         {
             _button.onClick.AddListener(ClickExitButton);
+        }
+        else if (checkBoxButton)
+        {
+            _button.onClick.AddListener(CheckBoxButton);
         }
         else if (ShowHideObjects != null)
         {
@@ -60,5 +68,10 @@ public class ButtonScript : MonoBehaviour
                 ShowHideObjects[i].SetActive(false);
             }
         }
+    }
+
+    void CheckBoxButton()
+    {
+
     }
 }

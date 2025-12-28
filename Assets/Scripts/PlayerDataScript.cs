@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class PlayerData
 {
     public float masterVolume;
+    public bool debugMode;
 }
 
 public class PlayerDataScript : MonoBehaviour
