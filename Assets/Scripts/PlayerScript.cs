@@ -77,5 +77,7 @@ public class PlayerScript : MonoBehaviour
                 Debug.Log("Pressed ->");
             }
         }
+
+        Debug.Log(Time.timeScale);
     }
 }

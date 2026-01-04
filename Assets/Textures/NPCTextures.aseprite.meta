@@ -33,7 +33,7 @@ ScriptedImporter:
     sRGBTexture: 1
     spriteMode: 2
     spriteExtrude: 1
-    spriteMeshType: 1
+    spriteMeshType: 0
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     spritePixelsToUnits: 16
@@ -72,13 +72,13 @@ ScriptedImporter:
     textureFormatSet: 0
     applyGammaDecoding: 0
   previousAsepriteImporterSettings:
-    fileImportMode: 1
+    fileImportMode: 0
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
+    mosaicPadding: 0
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
@@ -87,13 +87,13 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   asepriteImporterSettings:
-    fileImportMode: 1
+    fileImportMode: 0
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
+    mosaicPadding: 0
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
@@ -102,7 +102,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638997626717216853
+  platformSettingsDirtyTick: 639031365376673341
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -129,15 +129,15 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: NPCTextures
     originalName: 
-    pivot: {x: 0.4666667, y: 0}
+    pivot: {x: 0.48387095, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 4
-      y: 4
-      width: 15
+      x: 0
+      y: 0
+      width: 31
       height: 23
     spriteID: c2c08e76f23ae674cbb99ba8d78b8e6e
     spriteBone: []
@@ -147,8 +147,50 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
-  spriteSheetImportData: []
+    uvTransform: {x: 0, y: 0}
+  spriteSheetImportData:
+  - name: NPCTextures_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 24
+    spriteID: 776a27fe1060fa54ea29f1867f143ff6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: NPCTextures_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 24
+    spriteID: df1f6edb7c1d9594c93dead76434dc9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
   tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -169,7 +211,7 @@ ScriptedImporter:
       cellRect:
         x: 1
         y: 0
-        width: 15
+        width: 31
         height: 23
       spriteId: c2c08e76f23ae674cbb99ba8d78b8e6e
     linkedCells: []
@@ -214,8 +256,8 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  generatePhysicsShape: 0
+  generatePhysicsShape: 1
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 16, y: 24}
+  canvasSize: {x: 32, y: 24}
   previousTextureSize: {x: 32, y: 32}
